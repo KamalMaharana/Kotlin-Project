@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "276225250812",
+    "firebase_url": "https://crimsonmessenger-763f5.firebaseio.com",
+    "project_id": "crimsonmessenger-763f5",
+    "storage_bucket": "crimsonmessenger-763f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276225250812:android:72249f8e0844e44b1b4e79",
+        "android_client_info": {
+          "package_name": "com.kamal_maharana.crimsonmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276225250812-3ej5876u6877rsh5aeh75vlakjn942js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiR5pp8U1_SDnZxYP0eTK1yBZS_r6xqaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276225250812-3ej5876u6877rsh5aeh75vlakjn942js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
